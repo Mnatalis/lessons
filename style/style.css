@@ -1,0 +1,229 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+
+.pig-head {
+    width: 984px;
+    height: 818px;
+    background-color: rgba(149, 116, 180, 1);
+}
+
+.eirs{
+    width: 984px;
+    height: 180px;
+    background-color: rgba(245, 245, 245, 1);
+}
+
+.eir{
+    width: 254px;
+    height: 183px;
+    background-color: rgba(149, 116, 180, 1);
+    display: inline-block;
+    padding:29px 54px 29px 54px ;
+}
+
+.left-eir{
+    margin-left: 74px;
+}
+
+.right-eir{
+    margin-left: 299px;
+}
+
+.eir-hole {
+    width: 164px;
+    height: 143px;
+    background-color: rgba(245, 186, 32, 1) ;
+    
+}
+
+.pig-face {
+    width: 984px;
+    height: 634px;
+    padding: 90px 103px 70px 129px;
+
+}
+
+.eye {
+    height: 179px;
+    width: 261px;
+    background-color:  rgba(245, 186, 32, 1);
+    display: inline-block;
+}
+
+.eye-hole-right{
+    width: 90px;
+    height: 127px;
+    background-color: black;
+    margin: 54px 170px 0px 0px;
+}
+
+.eye-hole-left{
+    width: 90px;
+    height: 127px;
+    background-color: black;
+    margin: 54px 0px 0px 171px;
+}
+.right-eye{
+    margin-left: 220px;
+}
+
+.nose{
+    width: 320px;
+    height: 114px;
+    background-color: rgba(253, 197, 128, 1);
+    margin: 37px auto;
+    padding: 33px 58px 0px 58px;
+}
+.nostril{
+    display: inline-block;
+    background-color: rgba(231, 56, 150, 1);
+}
+
+.hole-left {
+    width: 63px;
+    height: 83px;
+    margin-left: 74px;
+    background-color: rgba(231, 56, 150, 1);
+}
+
+.hole-right {
+    width: 63px;
+    height: 83px;  
+    background-color: rgba(231, 56, 150, 1);
+}
+.mouth {
+    width: 753px;
+    height: 96px;
+    background-color: red;
+    margin-top: 43px;
+    
+}
+.teeth-black{
+    display: inline-block;
+}
+.black {
+    width: 63px;
+    height: 46px;
+    background-color: black;
+    display: inline-block;
+}
+
+.black-one{
+    margin-left: 105px;
+}
+.black-second,
+.black-fourth,
+.black-sixth
+{
+    margin-left: 43px;
+}
+.black-third,
+.black-fifth{
+    margin-left: 51px;
+}
+
+
+.teeth-wight{
+    display: inline-block;
+}
+.wight{
+    width: 63px;
+    height: 46px;
+    background-color: white;
+    display: inline-block;
+}
+
+.wight-one,
+ .wight-second,
+ .wight-fourth,
+ .wight-sixth
+ {
+    margin-left: 44px;
+}
+
+.wight-third,
+.wight-fifth{
+    margin-left: 55px;
+}
+.neck{
+    width: 260px;
+    height: 75px;
+    background-color:rgba(149, 116, 180, 1) ;
+    margin-left: 374px;
+    padding-top: 23px;
+}
+.line {
+    width: 260px;
+    height: 25px;
+    background-color:rgba(245, 186, 32, 1) ;
+}
+.shoulders {
+    width: 719px;
+    height: 73px;
+    background-color: rgba(149, 116, 180, 1);
+    margin-left: 135px;
+    border-radius: 30px 30px 0px 0px;
+}
+.hands{
+    width: 960px;
+    height: 175px;
+    background-color: rgba(149, 116, 180, 1);
+    margin-left: 15px;
+    border-radius: 30px 30px 30px 30px;
+}
+
+.hand{
+    width: 38px;
+    height: 100%;
+    background-color: black;
+    display: inline-block;
+    border-radius: 30px 0px 0px 30px;
+}
+
+.hand-two{
+    margin-left: 878px;
+    border-radius: 0px 30px 30px 0px;
+}
+
+.body-bottom{
+    width: 728px;
+    height: 513px;
+    background-color: rgba(149, 116, 180, 1);
+    margin-left: 135px;
+    border-radius: 0px 0px 30px 30px;
+}
+.spot{
+    background-color: rgba(231, 56, 150, 1);
+    width: 438px;
+    height: 438px;
+    margin: auto;
+    border-radius: 50%;
+}
+.legs{
+    display: inline-block;
+}
+.leg{
+    width: 159px;
+    height: 113px;
+    background-color: rgba(149, 116, 180, 1);
+    display: inline-block;
+}
+.leg-one{
+    margin-left: 200px;
+}
+.leg-two{
+    margin-left: 270px;
+}
+.leg-bottom{
+    background-color: black;
+    height: 42px;
+    width: 100%;
+    margin-top: 112px;
+    border-radius: 0px 0px 30px 30px;
+}
